@@ -1,0 +1,6 @@
+C:\Users\usuario\Desktop\Taller Seccion 2B Angel\taller de Angel Yajure - Persistencia\taller de Angel Yajure - Persistencia\bin\Debug\taller de Angel Yajure - Persistencia.exe.config
+C:\Users\usuario\Desktop\Taller Seccion 2B Angel\taller de Angel Yajure - Persistencia\taller de Angel Yajure - Persistencia\bin\Debug\taller de Angel Yajure - Persistencia.exe
+C:\Users\usuario\Desktop\Taller Seccion 2B Angel\taller de Angel Yajure - Persistencia\taller de Angel Yajure - Persistencia\bin\Debug\taller de Angel Yajure - Persistencia.pdb
+C:\Users\usuario\Desktop\Taller Seccion 2B Angel\taller de Angel Yajure - Persistencia\taller de Angel Yajure - Persistencia\obj\Debug\taller de Angel Yajure - Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Taller Seccion 2B Angel\taller de Angel Yajure - Persistencia\taller de Angel Yajure - Persistencia\obj\Debug\taller de Angel Yajure - Persistencia.exe
+C:\Users\usuario\Desktop\Taller Seccion 2B Angel\taller de Angel Yajure - Persistencia\taller de Angel Yajure - Persistencia\obj\Debug\taller de Angel Yajure - Persistencia.pdb

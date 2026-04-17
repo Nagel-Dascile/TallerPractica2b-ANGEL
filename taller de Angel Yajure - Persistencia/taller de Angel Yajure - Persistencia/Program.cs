@@ -1,11 +1,4 @@
-﻿/*
- * Creado por SharpDevelop.
- * Usuario: usuario
- * Fecha: 17/4/2026
- * Hora: 2:19 p. m.
- * 
- * Puto el que lo lea
- */
+﻿
 using System;
 
 namespace taller_de_Angel_Yajure___Persistencia
@@ -14,9 +7,8 @@ namespace taller_de_Angel_Yajure___Persistencia
 	{
 		public static void Main(string[] args)
 		{
-			Console.WriteLine("Hello World!");
-			
-			// TODO: Implement Functionality Here
+			Console.WriteLine("Maldito desgraciado te odio y te detesto, eres tan malo que hasta Araujo ni te hace una roja en Champions");
+
 			
 			Console.Write("Press any key to continue . . . ");
 			Console.ReadKey(true);

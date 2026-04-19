@@ -1,0 +1,5 @@
+19/4/2026 5:48:49 p. m.: Clave vulnerable detectada del usuario: Angel
+19/4/2026 5:52:12 p. m.: Clave vulnerable detectada del usuario: Angel
+19/4/2026 5:55:21 p. m.: Clave vulnerable detectada del usuario: Angel
+19/4/2026 6:12:19 p. m.: Clave vulnerable detectada del usuario: Angel
+19/4/2026 6:12:47 p. m.: Clave vulnerable detectada del usuario: JoseJose
